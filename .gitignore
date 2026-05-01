@@ -1,0 +1,12 @@
+# Rust
+target/
+**/*.rs.bk
+Cargo.lock
+
+# Solana/Anchor
+.anchor/
+deploy/
+test-ledger/
+.env
+node_modules/
+dist/
