@@ -26,7 +26,7 @@ To maintain a consistent development environment, the following stack is utilize
 *   **Language:** Rust 1.95+
 *   **Solana CLI:** Agave-client v3.0.10
 *   **Framework:** Anchor v0.32.1
-*   **Identity:** GPG-signed commits for hardware-rooted traceability
+
 
 ## 🚀 Quick Start
 
